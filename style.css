@@ -24,7 +24,6 @@ nav{
 
     position: sticky;
     top: 0;
-    z-index: 10;
 }
 
 li{
@@ -34,7 +33,6 @@ li{
 }
 
 main{
-    min-height: calc(100vh - 54px);
 
     display: flex;
     justify-content: center;
