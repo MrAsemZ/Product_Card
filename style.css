@@ -56,7 +56,6 @@ main{
     width: 310px;
 
     position: relative;
-    overflow: hidden;
     border-radius: 16px 16px 0 0;
 }
 
@@ -66,12 +65,8 @@ main{
 
     object-fit: cover;
 
-    transition: 0.3s;
 }
 
-.product-image img:hover{
-    transform: scale(1.08);
-}
 
 #discount{
     position: absolute;
